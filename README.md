@@ -1,5 +1,5 @@
 # EMS_config
-EMS configurations of the EMS Server and of an EMS Client that gprovides the optimal performance
+EMS configurations of the EMS Server and of an EMS Client that provides the optimal performance
 
 In order to make an optimal configuration from the message delivery to the receiving of the message, one should make many considerations on how the message is delivery(including which type of scenario, how heavier is the message, requirements to be fulfilled, and so on)
 
